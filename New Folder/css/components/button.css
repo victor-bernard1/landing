@@ -1,0 +1,12 @@
+.btn-white {
+	background-color: black;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 4px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.btn-white:hover {
+	background-color: red;
+	color: white;
+}
